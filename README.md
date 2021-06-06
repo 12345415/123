@@ -24,3 +24,6 @@ int main()
 ## 超链接
 [百度搜索](https://baidu.com )
 
+## 图片
+![图](C:\Users\lenovo\Desktop\新建文件夹)
+
